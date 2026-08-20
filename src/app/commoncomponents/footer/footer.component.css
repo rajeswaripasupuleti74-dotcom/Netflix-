@@ -1,0 +1,16 @@
+footer{
+    display: flex;
+}
+a{
+    color: #a8a0a0;
+    display: block;
+    font-size: 1rem;
+    padding: 8px 0px;
+}
+.row{
+    display: flex;
+    padding: 0px 70px;
+}
+.col{
+    padding: 0px 80px;
+}

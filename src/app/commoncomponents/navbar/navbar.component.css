@@ -1,0 +1,21 @@
+.container img{
+    max-width: 10%;
+}
+.container {
+    display:flex;
+    justify-content: space-between;
+    margin: 0px 20px;
+}
+.container button{
+    background-color: #fff;
+    color: #000;
+    border: none;
+    border-radius: 20px;
+    margin: 10px 10px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 420ms;
+}
+.container button:hover{
+    background-color: rgb(146, 142, 142);
+}
